@@ -9,6 +9,7 @@
 - CSS
 - Javascript
 - React
+- Vue
 
 <h3> :rocket: &nbsp;Tecnologias utilizadas </h3>
 
