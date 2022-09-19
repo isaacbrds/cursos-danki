@@ -1,7 +1,8 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link> |
+    <router-link :to="{name: 'isaac', params: {id: '20'} }">Isaac</router-link>
   </nav>
   <router-view/>
 </template>
